@@ -46,6 +46,7 @@ del Diplomado en Business Intelligence con Power BI (EAFIT).
 - Diseño de dashboards ejecutivos multinivel
  Ver el dashboard en vivo:https://app.powerbi.com/view?r=eyJrIjoiNGQ4M2FkOTMtY2Y3Zi00ZDc4LTlkNGYtNGVkMWY3MGQ4OTkxIiwidCI6Ijk5ZjdiNTVlLTljYmUtNDY3Yi04MTQzLTkxOTc4MjkxOGFmYiIsImMiOjR9
 
+## Contacto
 LinkedIn:https://www.linkedin.com/in/dylan-mauricio-moya-ortiz-a26b33254/)
 
 Email: dylanmauriciomoyaortiz@gmail.com
